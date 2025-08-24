@@ -32,8 +32,7 @@
 ---
 
 ## 🚀 Featured Projects
-- **AI Dashboard Generator** – prompts ➜ interactive dashboards  
-- **ATS with AI Agents** – automated candidate scoring & interview scheduling  
+- **AI Dashboard Generator** – prompts ➜ interactive dashboards   
 - **Fraud Detection Models** – real-time ML for banking transactions  
 - **Adaptive RL Agents** – decision-making simulations
 
